@@ -1,0 +1,61 @@
+book_id,title,author,genre,description
+1,Harry Potter and the Sorcerer's Stone,J.K. Rowling,Fantasy | Mystery | Adventure,A young wizard begins his journey at Hogwarts.
+2,Harry Potter and the Chamber of Secrets,J.K. Rowling,Fantasy | Mystery | Adventure,Harry returns to Hogwarts where a hidden chamber unleashes danger.
+3,Harry Potter and the Half-Blood Prince,J.K. Rowling,Fantasy | Adventure,Harry battle's with the evil Half-Blooded Prince with plot twists
+4,Harry Potter and the Goblet of Fire,J.K. Rowling,Fantasy | Adventure,Harry competes in the dangerous Triwizard Tournament.
+5,Harry Potter and the Order of the Phoenix,J.K. Rowling,Fantasy | Adventure | Drama,Harry faces the Ministry’s denial of Voldemort’s return.
+6,The Hobbit,J.R.R. Tolkien,Fantasy | Adventure,A hobbit embarks on a dangerous adventure to reclaim treasure.
+7,The Fellowship of the Ring,J.R.R. Tolkien,Fantasy | Adventure | Epic,Frodo begins his journey to destroy the One Ring with the Fellowship.
+8,The Two Towers,J.R.R. Tolkien,Fantasy | Adventure | Epic,The Fellowship is divided as war with Sauron spreads across Middle-earth.
+9,The Return of the King,J.R.R. Tolkien,Fantasy | Adventure | Epic,The final battle for Middle-earth and Frodo’s quest to Mount Doom.
+10,The Silmarillion,J.R.R. Tolkien,Fantasy | Mythology | Legend,A collection of ancient myths and histories of Middle-earth.
+11,Dune,Frank Herbert,Science Fiction | Adventure,A noble family becomes embroiled in power struggles over the desert planet Arrakis and its valuable spice.
+12,Ender’s Game,Orson Scott Card,Science Fiction | Military | Strategy,A gifted child is trained in a futuristic military academy to fight an alien race.
+13,Foundation,Isaac Asimov,Science Fiction | Space Opera,A mathematician develops psychohistory to predict the fall of a galactic empire.
+14,Neuromancer,William Gibson,Science Fiction | Cyberpunk,A washed-up hacker is hired for a high-stakes mission in a world of AI and cyberspace.
+15,The Martian,Andy Weir,Science Fiction | Survival,An astronaut stranded on Mars must use science and ingenuity to survive.
+16,Dracula,Bram Stoker,Horror | Gothic | Supernatural,"The iconic vampire Count Dracula preys on London, opposed by Van Helsing and his allies."
+17,Frankenstein,Mary Shelley,Horror | Gothic | Science Fiction,"A scientist creates life, only to be haunted by the consequences of his ambition."
+18,The Shining,Stephen King,Horror | Psychological | Supernatural,A family isolated in a haunted hotel faces terrifying visions and madness.
+19,The Haunting of Hill House,Shirley Jackson,Horror | Gothic | Paranormal,"A group investigates a mansion with a dark, terrifying history."
+20,Bird Box,Josh Malerman,Horror | Post-apocalyptic | Thriller,Survivors must live blindfolded to avoid deadly creatures that cause madness on sight.
+21,Pride and Prejudice,Jane Austen,Romance | Classic | Drama,"Elizabeth Bennet navigates love, pride, and social class with the enigmatic Mr. Darcy."
+22,The Notebook,Nicholas Sparks,Romance | Drama,"A timeless love story between Noah and Allie, tested by war and circumstance."
+23,Me Before You,Jojo Moyes,Romance | Contemporary | Drama,"A young woman becomes caretaker to a paralyzed man, leading to unexpected love."
+24,Outlander,Diana Gabaldon,Romance | Historical | Fantasy,"A WWII nurse is transported back to 18th-century Scotland, where she finds love and danger."
+25,The Fault in Our Stars,John Green,Romance | Young Adult | Drama,Two teenagers with cancer embark on a heart-wrenching love story.
+26,The 7 Habits of Highly Effective People,Stephen R. Covey,Self-Help | Personal Growth | Leadership,A guide to building habits that enhance effectiveness in personal and professional life.
+27,How to Win Friends and Influence People,Dale Carnegie,Self-Help | Communication | Relationships,Timeless principles on improving communication and building better relationships.
+28,Atomic Habits,James Clear,Self-Help | Productivity | Psychology,"A framework for creating good habits, breaking bad ones, and mastering small behaviors."
+29,The Power of Now,Eckhart Tolle,Self-Help | Mindfulness | Spirituality,Teaches living fully in the present moment as the path to happiness and peace.
+30,Think and Grow Rich,Napoleon Hill,Self-Help | Success | Motivation,"Classic guide to wealth-building through mindset, visualization, and persistence."
+31,Charlotte’s Web,E.B. White,Children | Classic | Animal Fiction,The friendship between a pig named Wilbur and a wise spider named Charlotte.
+32,Matilda,Roald Dahl,Children | Fantasy | Humor,A gifted girl with telekinetic powers stands up to cruel adults in her life.
+33,Where the Wild Things Are,Maurice Sendak,Children | Picture Book | Fantasy,A young boy travels to an island of wild creatures who crown him king.
+34,The Very Hungry Caterpillar,Eric Carle,Children | Picture Book | Educational,A colorful story of a caterpillar’s journey to becoming a butterfly.
+35,Harry Potter and the Sorcerer’s Stone*,J.K. Rowling,Children | Fantasy | Adventure,The start of Harry Potter’s magical journey at Hogwarts.
+36,Don Quixote,Miguel de Cervantes,Classical Literature | Satire | Adventure,A comedic yet profound tale of an aging man who imagines himself a knight on chivalrous quests.
+37,War and Peace,Leo Tolstoy,Classical Literature | Historical | Epic,"A sweeping narrative set during Napoleon’s invasion of Russia, exploring love, war, and society."
+38,Crime and Punishment,Fyodor Dostoevsky,Classical Literature | Psychological | Drama,A psychological study of a man who commits murder and wrestles with guilt and redemption.
+39,Les Misérables,Victor Hugo,Classical Literature | Historical | Drama,"A story of justice, redemption, and revolution in 19th-century France, centered on Jean Valjean."
+40,The Divine Comedy,Dante Alighieri,Classical Literature | Epic Poetry,"An allegorical journey through Hell, Purgatory, and Paradise, exploring sin, faith, and salvation."
+41,The Guns of August,Barbara W. Tuchman,History | Military | World War I,A Pulitzer Prize–winning account of the opening month of WWI and the decisions that shaped it.
+42,Team of Rivals: The Political Genius of Abraham Lincoln,Doris Kearns Goodwin,History | Biography | Politics,Explores how Lincoln brought together political opponents to lead the U.S. during the Civil War.
+43,The History of the Peloponnesian War,Thucydides,History | Ancient | War,A detailed chronicle of the conflict between Athens and Sparta in ancient Greece.
+44,Genghis Khan and the Making of the Modern World,Jack Weatherford,History | Biography | Global,Reinterprets Genghis Khan as a visionary leader who reshaped global culture and trade.
+45,Postwar: A History of Europe Since 1945,Tony Judt,History | Modern | Europe,A sweeping history of Europe’s transformation after World War II up to the early 21st century.
+46,The Lean Startup,Eric Ries,Business | Entrepreneurship | Innovation,"A guide on building startups through rapid experimentation, validated learning, and adaptability."
+47,Good to Great,Jim Collins,Business | Leadership | Strategy,An analysis of why some companies achieve sustained greatness while others do not.
+48,The Intelligent Investor,Benjamin Graham,Business | Finance | Investment,A timeless guide to value investing and financial principles for long-term success.
+49,Zero to One,Peter Thiel (with Blake Masters),Business | Startups | Innovation,"Insights on creating unique companies that build the future, rather than copying existing models."
+50,The Innovator’s Dilemma,Clayton M. Christensen,Business | Strategy | Technology,Explains how disruptive innovations can topple established companies and reshape industries.
+51,Silent Spring,Rachel Carson,Nature | Environment | Science,A groundbreaking work that exposed the dangers of pesticides and modern environmental movement.
+52,Walden,Henry David Thoreau,Nature | Philosophy | Memoir,A reflection on simple living in natural surroundings at Walden Pond.
+53,Pilgrim at Tinker Creek,Annie Dillard,Nature | Memoir | Spiritual,A Pulitzer Prize–winning exploration of nature and human existence through detailed observation.
+54,A Sand County Almanac,Aldo Leopold,Nature | Conservation | Essays,Classic essays promoting a land ethic and respect for ecosystems.
+55,The Hidden Life of Trees,Peter Wohlleben,Nature | Science | Ecology,Reveals the secret communication and social life of trees in forests.
+56,Mastering the Art of French Cooking,Julia Child,Food | Cookbook | Classic,A landmark guide that introduced French cuisine to American home cooks.
+57,The Joy of Cooking,Irma S. Rombauer,Food | Cookbook | Reference,"One of the most popular all-purpose cookbooks, covering thousands of recipes."
+58,"Salt, Fat, Acid, Heat",Samin Nosrat,Food | Cooking | Instructional,A best-selling guide that teaches the four essential elements of good cooking.
+59,On Food and Cooking: The Science and Lore of the Kitchen,Harold McGee,Food | Science | Reference,A deep dive into the chemistry and history of food and cooking techniques.
+60,Plenty,Yotam Ottolenghi,Food | Cookbook | Vegetarian,A celebrated collection of creative vegetarian recipes with Mediterranean influences.
